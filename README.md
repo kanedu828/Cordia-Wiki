@@ -1,3 +1,8 @@
+## How to Contribute to the Wiki
+ 1. Fork the repository.
+ 2. Add a file or edit a file. Commit these changes to a new branch.
+ 5. Open a pull request.
+
 ## Terms of Service
   1. Use of scripts to automate playing the game is not allowed. You may be blacklisted if you are scripting.
   2. Abuse of bugs are not allowed, please report bugs as soon as you can.
