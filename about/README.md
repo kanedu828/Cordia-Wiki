@@ -22,7 +22,7 @@ Fully fledged out user interface so you don't have to use commands!
 ## Upgrade your gear using your gold and resources
 ![image](https://github.com/user-attachments/assets/3718f34e-ee3a-4356-b51e-95d85cf5a957)
 
-## Invent in your stats to become more powerful
+## Invest in your stats to become more powerful
 ![image](https://github.com/user-attachments/assets/2bbfd622-d1b2-43a6-a5f7-72c469f64e2a)
 
 ## Other features
